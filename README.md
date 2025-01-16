@@ -1,4 +1,4 @@
-<a href="https://app.daily.dev/youtoo"><img src="https://github.com/sedovdmitry/sedovdmitry/blob/main/devcard.svg" width="400" alt="Dmitry Sedov's Dev Card"/></a>
+<a href="https://app.daily.dev/sedovdmitry"><img src="https://github.com/sedovdmitry/sedovdmitry/blob/main/devcard.svg" width="400" alt="Dmitry Sedov's Dev Card"/></a>
 
 <!--
 ### Hi there 👋
